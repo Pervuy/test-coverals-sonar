@@ -6,6 +6,6 @@ class MainTest {
 
     @org.junit.jupiter.api.Test
     void main() {
-        assertEquals(1,1);
+
     }
 }

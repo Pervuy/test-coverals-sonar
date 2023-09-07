@@ -1,0 +1,4 @@
+addons:
+  sonarcloud:
+    organization: "pervuy"
+    token: 2981c0e825275a721b39452de8812b8ed34841ef
